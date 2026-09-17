@@ -1,4 +1,4 @@
-# C--Tutorial
+# C# Tutorial
 Just use this git to study C# **in depth**.
 
 Not very sure how to study it fast.
